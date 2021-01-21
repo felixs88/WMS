@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+""" contry dictionary """
 
 country_dict = {
 	'AF': 'AFGHANISTAN',
