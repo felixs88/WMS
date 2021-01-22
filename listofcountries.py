@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-dhf
+hf
 
 country_dict = {
 	'AF': 'AFGHANISTAN',
